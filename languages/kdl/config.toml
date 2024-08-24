@@ -1,0 +1,4 @@
+name = "Kdl"
+grammar = "kdl"
+path_suffixes = ["kdl"]
+line_comments = ["// "]
